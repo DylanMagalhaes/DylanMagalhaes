@@ -1,7 +1,7 @@
 # 💫 About Me:
 <br>👨‍💻 À propos de moi<br>Salut ! Je suis Dylan Magalhaes, un développeur passionné par le développement web et mobile. J'aime surtout travailler avec des technologies comme React, Next.js, TypeScript et Node.js, je suis toujours curieux d’approfondir mes compétences en développement d’applications.<br><br>🌱 Ce que j'apprends en ce moment<br>Actuellement, j'explore Kotlin et Jetpack Compose pour perfectionner mes compétences en développement Android.<br><br>🚀 Projets<br>FlexFi : Une solution de paiement BNPL en cryptomonnaie, intégrant Solana et Web3.js, développée dans le cadre du Colosseum Radar Hackathon.<br>TrekPack : Un outil pour organiser efficacement votre équipement de trek, développé avec React et Next.js.<br>O'Vinyle: Une plateforme pour rechercher des vinyles et gérer sa collection.
 
-Mon portfolio : https://dylan-magalhaes.com/
+👨‍💻 Mon portfolio : https://dylan-magalhaes.com/
 
 
 # 💻 Tech Stack:
@@ -17,5 +17,5 @@ Mon portfolio : https://dylan-magalhaes.com/
 ---
  <!-- VISITE COUNT [![](https://visitcount.itsvg.in/api?id=DylanMagalhaes&icon=0&color=0)](https://visitcount.itsvg.in) -->
 
-Mon portfolio : https://dylan-magalhaes.com/
+👨‍💻 Mon portfolio : https://dylan-magalhaes.com/
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
