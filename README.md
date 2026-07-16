@@ -14,7 +14,7 @@ Fort de mon bagage en architecture web et en programmation réactive, je m'effor
 * **Réseau & Asynchronisme :** Retrofit, Coroutines, Kotlin Flow
 
 ### Web & Back-end
-* **Frontend :** TypeScript, React, Next.js
+* **Frontend :** TypeScript, React, Vue.js Next.js
 * **Backend & API :** Node.js, NestJS
 * **Web3 :** Solana, Web3.js
 
