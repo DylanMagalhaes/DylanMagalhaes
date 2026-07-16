@@ -1,14 +1,33 @@
-# 💫 About Me:
-<br>👨‍💻 À propos de moi<br>Je suis Dylan Magalhaes, passionné par le développement web et mobile. J'aime surtout travailler avec des technologies comme React, Next.js, TypeScript et Node.js, je suis toujours curieux d’approfondir mes compétences en développement d’applications.<br><br>🚀 Projets<br>FlexFi : Une solution de paiement BNPL en cryptomonnaie, intégrant Solana et Web3.js, développée dans le cadre du Colosseum Radar Hackathon.<br>TrekPack : Un outil pour organiser efficacement votre équipement de trek, développé avec React et Next.js.<br>O'Vinyle: Une plateforme pour rechercher des vinyles et gérer sa collection.
+## 👨‍💻 À propos de moi
 
-👨‍💻 Mon portfolio : https://dylan-magalhaes.com/ 
-   
+Salut ! Moi c'est **Dylan Magalhaes**. Initialement spécialisé dans l'écosystème **Web (React, Next.js, Node.js)**, j'ai récemment opéré un virage vers le **développement mobile natif Android**. 
 
-# 💻 Tech Stack:
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+Fort de mon bagage en architecture web et en programmation réactive, je m'efforce aujourd'hui de concevoir des applications mobiles robustes, fluides et structurées selon les meilleurs standards (Clean Architecture, MVVM).
 
 ---
- <!-- VISITE COUNT [![](https://visitcount.itsvg.in/api?id=DylanMagalhaes&icon=0&color=0)](https://visitcount.itsvg.in) -->
 
-👨‍💻 Mon portfolio : https://dylan-magalhaes.com/  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Stack Technique
+
+### Mobile (Android)
+* **Langage & UI :** Kotlin, Jetpack Compose
+* **Architecture & Injection :** Clean Architecture, MVVM, Hilt
+* **Réseau & Asynchronisme :** Retrofit, Coroutines, Kotlin Flow
+
+### Web & Back-end
+* **Frontend :** TypeScript, React, Next.js
+* **Backend & API :** Node.js, NestJS
+* **Web3 :** Solana, Web3.js
+
+---
+
+## Projets
+
+### Projet Phare : StrimUp (Full-Stack & Mobile)
+* **StrimUp** : plateforme de découverte de streamers qui va au-delà du simple annuaire : filtres avancés, profils enrichis et expérience pensée pour les viewers comme pour les créateurs.
+  * **Web & Back-end :** Développement complet d'une application web performante et scalable (React, Node.js). Le projet a passé un cap majeur avec le lancement réussi de la V1, réunissant **plus de 1 000 utilisateurs inscrits**.
+  * **Mobile (Android Native) :** Portage natif de la plateforme en **Kotlin** et **Jetpack Compose**, sous Clean Architecture et MVVM, avec consommation de la même API REST. (en cours)
+
+### Autres Projets Web & Web3
+* **FlexFi** : Une solution de paiement BNPL en cryptomonnaie, intégrant Solana et Web3.js, développée dans le cadre du Colosseum Radar Hackathon.
+* **TrekPack** : Un outil pour organiser efficacement votre équipement de trek, développé avec React.
+* **O'Vinyle** : Une plateforme pour rechercher des vinyles et gérer sa collection développé avec React et Node.js.
