@@ -1,6 +1,6 @@
-## 👨‍💻 À propos de moi
+## À propos de moi
 
-Salut ! Moi c'est **Dylan Magalhaes**. Initialement spécialisé dans l'écosystème **Web (React, Next.js, Node.js)**, j'ai récemment opéré un virage vers le **développement mobile natif Android**. 
+Hello ! Moi c'est **Dylan Magalhaes**. Initialement spécialisé dans l'écosystème **Web (React, Next.js, Node.js)**, j'ai récemment opéré un virage vers le **développement mobile natif Android**. 
 
 Fort de mon bagage en architecture web et en programmation réactive, je m'efforce aujourd'hui de concevoir des applications mobiles robustes, fluides et structurées selon les meilleurs standards (Clean Architecture, MVVM).
 
