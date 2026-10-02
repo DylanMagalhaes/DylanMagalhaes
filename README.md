@@ -24,8 +24,8 @@ Fort de mon bagage en architecture web et en programmation, je m'efforce aujourd
 
 ### Projet Phare : StrimUp (Full-Stack & Mobile)
 * **StrimUp** : plateforme de découverte de streamers qui va au-delà du simple annuaire : filtres avancés, profils enrichis et expérience pensée pour les viewers comme pour les créateurs.
-  * **Web & Back-end :** Développement complet d'une application web performante et scalable (React, Node.js). Le projet a passé un cap majeur avec le lancement réussi de la V1, réunissant **plus de 1 000 utilisateurs inscrits**.
-  * **Mobile (Android Native) :** Portage natif de la plateforme en **Kotlin** et **Jetpack Compose**, sous Clean Architecture et MVVM, avec consommation de la même API REST. (en cours)
+  * **Web & Back-end :** Développement complet d'une application web performante et scalable (React, Node.js). Le projet a passé un cap majeur avec le lancement réussi de la V1, réunissant **plus de 1 300 utilisateurs inscrits**.
+  * **Mobile (Android Native) :** Portage natif de la plateforme en **Kotlin** et **Jetpack Compose**, sous Clean Architecture et MVVM, avec consommation de la même API REST. (en attente de validation du store)
 
 ### Autres Projets Web & Web3
 * **FlexFi** : Une solution de paiement BNPL en cryptomonnaie, intégrant Solana et Web3.js, développée dans le cadre du Colosseum Radar Hackathon.
